@@ -5,9 +5,6 @@ Original Code from Mark Miller at DevExpress [Link](https://community.devexpress
 
 [Changelog](CHANGELOG.md)
 
-# Todo
-* Move to dotnetCore
-
 # Documentation
 Use the built executable with the following parameters:
 
