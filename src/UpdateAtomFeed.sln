@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UpdateAtomFeed", "UpdateAtomFeed\UpdateAtomFeed.csproj", "{87C0A4C7-CC5C-4F7A-974D-8CD4A7A112DD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E4871DBC-735A-405D-B1F2-C4D28D721384}"
+	ProjectSection(SolutionItems) = preProject
+		..\README.md = ..\README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87C0A4C7-CC5C-4F7A-974D-8CD4A7A112DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87C0A4C7-CC5C-4F7A-974D-8CD4A7A112DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87C0A4C7-CC5C-4F7A-974D-8CD4A7A112DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87C0A4C7-CC5C-4F7A-974D-8CD4A7A112DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB7649FF-F4C2-49D1-93EC-8E9D18B41D72}
+	EndGlobalSection
+EndGlobal
